@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Sharma
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently pursuing M.Tech at IIIT-Bh 
+- 🌱 I’m currently working as Machine Learning Engineer in Alectio
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me awasthianushka01@gmail.com
 - ✨ My Portfolio : https://anushhi.github.io/portfolio/
