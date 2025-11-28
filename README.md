@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushkka Shharma
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently working as Machine Learning Engineer in Alectio
+- 🌱 I’m currently working as AI Software Developer in Wowlabz
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me awasthianushka01@gmail.com
 - ✨ My Portfolio : https://anushhi.github.io/portfolio/
