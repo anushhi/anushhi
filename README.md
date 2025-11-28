@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently working as AI Software Developer in Wowlabz
 - 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me awasthianushka01@gmail.com
+- 📫 How to reach me awasthianushkkashharma@gmail.com
 - ✨ My Portfolio : https://anushhi.github.io/portfolio/
 - ✨ My LeetCode Profile : https://leetcode.com/nush29/
 
