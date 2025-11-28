@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anushka Sharma
+- 👋 Hi, I’m Anushkka Shharma
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently working as Machine Learning Engineer in Alectio
 - 💞️ I’m looking to collaborate on ML Projects
